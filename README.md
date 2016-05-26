@@ -1,4 +1,4 @@
-# papal-php-sdk
+# paypal-php-sdk
 Paypal PHP Integration Script
 
 composer is the recommended way to install the SDK. Alternatively, if you prefer not to use Composer, but want to install our SDK, you can do so by doing a direct download
